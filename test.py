@@ -1,1 +1,1 @@
-print("hello! data science")
+print('Hello! data science')
